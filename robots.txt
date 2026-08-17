@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ev7wuz.pulaucuan.sbs/sitemap.xml
